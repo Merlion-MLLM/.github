@@ -1,4 +1,4 @@
-## Hi there 👋
+## Merlion MLLM
 
 <!--
 
